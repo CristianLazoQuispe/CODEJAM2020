@@ -65,7 +65,7 @@ def get_value(number1,number2):
             if number1 == number2:
                 cost+=1
                 number2*=10
-    #print('?',number1,number2,cost)
+    #print('?',number1,number2,cost) ## debuggear
     return cost,number2
 
 
