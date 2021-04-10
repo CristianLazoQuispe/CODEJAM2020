@@ -1,7 +1,11 @@
+# Prime time
+# Sample ok
+# Test case 1 ok 
+# Test case 2 Time Limit
+# Test case 3 None
+
 import itertools
 from functools import reduce
-
-
 
 
 T = int(input())
