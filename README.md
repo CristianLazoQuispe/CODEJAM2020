@@ -10,7 +10,20 @@ Qualified round 1A codejam 2021
     # Uncompleted
         
         Cheating-Detection
-    
+
+Round 1A codejam 2021
+
+    # Completed
+
+       Append Sort
+
+    # Uncompleted
+        
+        Prime Time : Testcase 1 ok
+        Hacked Exam
+
+Pc configuration
+
     # Windows
 
         $ py -m venv acmenv    
@@ -20,4 +33,4 @@ Qualified round 1A codejam 2021
 
     # Ubuntu
 
-        $ 
+        $ python3 appendsort.py <appendsort.txt 
